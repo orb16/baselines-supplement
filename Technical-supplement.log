@@ -1,0 +1,1686 @@
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.11.25)  1 AUG 2023 16:38
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Technical-supplement.tex
+(./Technical-supplement.tex
+LaTeX2e <2022-11-01>
+L3 programming layer <2022-11-02> (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/tufte-latex/tufte-handout.cls
+Document Class: tufte-handout 2015/06/21 v3.5.2 Tufte-handout class
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/tufte-latex/tufte-common.def
+File: tufte-common.def 2015/06/21 v3.5.2 Common code for the Tufte-LaTeX styles
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count181
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/xifthen/xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count182
+\calc@Bcount=\count183
+\calc@Adimen=\dimen140
+\calc@Bdimen=\dimen141
+\calc@Askip=\skip47
+\calc@Bskip=\skip48
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count184
+\calc@Cskip=\skip49
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+)) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/hardwrap/hardwrap.sty
+Package: hardwrap 2011/02/12 v0.2 Hard wrap messages
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+\hw@charcount=\count185
+\hw@wordcount=\count186
+\hw@maxprintline=\count187
+)
+Class tufte-handout Info: Loading the base class `article'
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip50
+\belowcaptionskip=\skip51
+\bibindent=\dimen142
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+Package: xltxtra 2018/12/31 v0.7 Improvements for the "XeLaTeX" format
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-11-02 L3 programming layer (loader) 
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-10-26 L3 backend support: XeTeX
+\g__graphics_track_int=\count196
+\l__pdf_internal_box=\box51
+\g__pdf_backend_object_int=\count197
+\g__pdf_backend_annotation_int=\count198
+\g__pdf_backend_link_int=\count199
+))
+Package: xparse 2022-06-22 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count266
+\l__fontspec_language_int=\count267
+\l__fontspec_strnum_int=\count268
+\l__fontspec_tmp_int=\count269
+\l__fontspec_tmpa_int=\count270
+\l__fontspec_tmpb_int=\count271
+\l__fontspec_tmpc_int=\count272
+\l__fontspec_em_int=\count273
+\l__fontspec_emdef_int=\count274
+\l__fontspec_strong_int=\count275
+\l__fontspec_strongdef_int=\count276
+\l__fontspec_tmpa_dim=\dimen143
+\l__fontspec_tmpb_dim=\dimen144
+\l__fontspec_tmpc_dim=\dimen145
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/realscripts/realscripts.sty
+Package: realscripts 2016/02/13 v0.3d Access OpenType subscripts and superscripts
+\subsupersep=\dimen146
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/metalogo/metalogo.sty
+Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
+)
+\xl@everylogo=\toks18
+\xl@@everylogo=\toks19
+LaTeX Info: Redefining \TeX on input line 193.
+LaTeX Info: Redefining \LaTeX on input line 202.
+LaTeX Info: Redefining \LaTeXe on input line 219.
+)
+\l__xetex_show_hyphens_wrapping_box=\box52
+\l__xetex_show_hyphens_temp_box=\box53
+\l__xetex_show_hyphens_final_box=\box54
+\g__xetex_show_hyphens_word_box=\box55
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box56
+\beforetitleunit=\skip52
+\aftertitleunit=\skip53
+\ttl@plus=\dimen149
+\ttl@minus=\dimen150
+\ttl@toksa=\toks20
+\titlewidth=\dimen151
+\titlewidthlast=\dimen152
+\titlewidthfirst=\dimen153
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/titlesec/titletoc.sty
+Package: titletoc 2021/07/05 v2.14 TOC entries
+\ttl@leftsep=\dimen154
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count277
+)
+\@linkdim=\dimen155
+\Hy@linkcounter=\count278
+\Hy@pagecounter=\count279
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count280
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4045.
+Package hyperref Info: Option `hyperfootnotes' set `false' on input line 4045.
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4410.
+\c@Hy@tempcnt=\count281
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4748.
+\XeTeXLinkMargin=\dimen156
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count282
+\Field@Width=\dimen157
+\Fld@charsize=\dimen158
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count283
+\c@Item=\count284
+)
+Package hyperref Info: Driver: hxetex.
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2022-11-13 v7.00u Hyperref driver for XeTeX
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\pdfm@box=\box57
+\c@Hy@AnnotLevel=\count285
+\HyField@AnnotCount=\count286
+\Fld@listcount=\count287
+\c@bookmark@seq@number=\count288
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip54
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2022/11/13 v3.2 ragged2e Package
+\CenteringLeftskip=\skip55
+\RaggedLeftLeftskip=\skip56
+\RaggedRightLeftskip=\skip57
+\CenteringRightskip=\skip58
+\RaggedLeftRightskip=\skip59
+\RaggedRightRightskip=\skip60
+\CenteringParfillskip=\skip61
+\RaggedLeftParfillskip=\skip62
+\RaggedRightParfillskip=\skip63
+\JustifyingParfillskip=\skip64
+\CenteringParindent=\skip65
+\RaggedLeftParindent=\skip66
+\RaggedRightParindent=\skip67
+\JustifyingParindent=\skip68
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count289
+\Gm@cntv=\count290
+\c@Gm@tempcnt=\count291
+\Gm@bindingoffset=\dimen159
+\Gm@wd@mp=\dimen160
+\Gm@odd@mp=\dimen161
+\Gm@even@mp=\dimen162
+\Gm@layoutwidth=\dimen163
+\Gm@layoutheight=\dimen164
+\Gm@layouthoffset=\dimen165
+\Gm@layoutvoffset=\dimen166
+\Gm@dimlist=\toks21
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/changepage/changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count292
+\cp@tempcnt=\count293
+)
+\@tufte@overhang=\skip69
+\@tufte@fullwidth=\skip70
+\@tufte@caption@fill=\skip71
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/paralist/paralist.sty
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip72
+\plpartopsep=\skip73
+\plitemsep=\skip74
+\plparsep=\skip75
+\pl@lab=\toks22
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2022/07/10 v1.03 Text only upper/lower case changing (DPC)
+Package textcase Info: Defining Legacy names on input line 20.
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/generic/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks23
+\SOUL@lasttoken=\toks24
+\SOUL@cmds=\toks25
+\SOUL@buffer=\toks26
+\SOUL@token=\toks27
+\SOUL@spaceskip=\skip76
+\SOUL@ttwidth=\dimen167
+\SOUL@uldp=\dimen168
+\SOUL@ulht=\dimen169
+)
+LaTeX Info: Redefining \allcapsspacing on input line 737.
+LaTeX Info: Redefining \smallcapsspacing on input line 737.
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Package option `usenames' ignored on input line 218.
+Package xcolor Info: Driver file: xetex.def on input line 227.
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/xcolor/svgnam.def
+File: svgnam.def 2022/06/12 v2.14 Predefined colors according to SVG 1.1 (UK)
+)) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip77
+\bibsep=\skip78
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count294
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/natbib/bibentry.sty
+Package: bibentry 2007/10/30 1.5 (PWD)
+)
+No file Technical-supplement.bbl.
+\c@@tufte@num@bibkeys=\count295
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/sauerj/optparams.sty
+Package: optparams 2004/08/14 v0.9 multiple optional parameters in macros
+)
+\@tufte@sidenote@vertical@offset=\skip79
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+\@tufte@margin@floatbox=\box58
+\@tufte@figure@box=\box59
+\@tufte@caption@box=\box60
+\@tufte@caption@vertical@offset=\skip80
+\@tufte@float@contents@width=\skip81
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip82
+\f@nch@O@elh=\skip83
+\f@nch@O@erh=\skip84
+\f@nch@O@olh=\skip85
+\f@nch@O@orh=\skip86
+\f@nch@O@elf=\skip87
+\f@nch@O@erf=\skip88
+\f@nch@O@olf=\skip89
+\f@nch@O@orf=\skip90
+)
+\tufteskipamount=\skip91
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+\c@tracingmulticols=\count296
+\mult@box=\box61
+\multicol@leftmargin=\dimen170
+\c@unbalance=\count297
+\c@collectmore=\count298
+\doublecol@number=\count299
+\multicoltolerance=\count300
+\multicolpretolerance=\count301
+\full@width=\dimen171
+\page@free=\dimen172
+\premulticols=\dimen173
+\postmulticols=\dimen174
+\multicolsep=\skip92
+\multicolbaselineskip=\skip93
+\partial@page=\box62
+\last@line=\box63
+\maxbalancingoverflow=\dimen175
+\mult@rightbox=\box64
+\mult@grightbox=\box65
+\mult@firstbox=\box66
+\mult@gfirstbox=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\c@minrows=\count302
+\c@columnbadness=\count303
+\c@finalcolumnbadness=\count304
+\last@try=\dimen176
+\multicolovershoot=\dimen177
+\multicolundershoot=\dimen178
+\mult@nat@firstbox=\box104
+\colbreak@box=\box105
+\mc@col@check@num=\count305
+))) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks28
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip94
+For additional information on amsmath, use the `?' option.
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks29
+\ex@=\dimen179
+)) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen180
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count306
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count307
+\leftroot@=\count308
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count309
+\DOTSCASE@=\count310
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box106
+\strutbox@=\box107
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen181
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count311
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count312
+\dotsspace@=\muskip17
+\c@parentequation=\count313
+\dspbrk@lvl=\count314
+\tag@help=\toks30
+\row@=\count315
+\column@=\count316
+\maxfields@=\count317
+\andhelp@=\toks31
+\eqnshift@=\dimen182
+\alignsep@=\dimen183
+\tagshift@=\dimen184
+\tagwidth@=\dimen185
+\totwidth@=\dimen186
+\lineht@=\dimen187
+\@envbody=\toks32
+\multlinegap=\skip95
+\multlinetaggap=\skip96
+\mathdisplay@stack=\toks33
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
+Applying: [2015/01/01] Old fixltx2e package on input line 46.
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+Already applied: [0000/00/00] Old fixltx2e package on input line 53.
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen188
+\lightrulewidth=\dimen189
+\cmidrulewidth=\dimen190
+\belowrulesep=\dimen191
+\belowbottomsep=\dimen192
+\aboverulesep=\dimen193
+\abovetopsep=\dimen194
+\cmidrulesep=\dimen195
+\cmidrulekern=\dimen196
+\defaultaddspace=\dimen197
+\@cmidla=\count318
+\@cmidlb=\count319
+\@aboverulesep=\dimen198
+\@belowrulesep=\dimen199
+\@thisruleclass=\count320
+\@lastruleclass=\count321
+\@thisrulewidth=\dimen256
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/units/units.sty
+Package: units 1998/08/04 v0.9b Typesetting units
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip97
+\L@UnitsRaiseTextstyle=\skip98
+\L@UnitsRaiseScriptstyle=\skip99
+)) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2022/06/06 4.5 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count322
+\FV@InFile=\read2
+\FV@TabBox=\box108
+\c@FancyVerbLine=\count323
+\FV@StepNumber=\count324
+\FV@OutFile=\write3
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip100
+\fb@frw=\dimen257
+\fb@frh=\dimen258
+\FrameRule=\dimen259
+\FrameSep=\dimen260
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip101
+\LTright=\skip102
+\LTpre=\skip103
+\LTpost=\skip104
+\LTchunksize=\count325
+\LTcapwidth=\dimen261
+\LT@head=\box109
+\LT@firsthead=\box110
+\LT@foot=\box111
+\LT@lastfoot=\box112
+\LT@gbox=\box113
+\LT@cols=\count326
+\LT@rows=\count327
+\c@LT@tables=\count328
+\c@LT@chunks=\count329
+\LT@p@ftn=\toks34
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen262
+\ar@mcellbox=\box114
+\extrarowheight=\dimen263
+\NC@list=\toks35
+\extratabsurround=\skip105
+\backup@length=\skip106
+\ar@cellbox=\box115
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box116
+\UL@hyphenbox=\box117
+\UL@skip=\skip107
+\UL@hook=\toks36
+\UL@height=\dimen264
+\UL@pe=\count330
+\UL@pixel=\dimen265
+\ULC@box=\box118
+Package: ulem 2019/11/18
+\ULdepth=\dimen266
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/morefloats/morefloats.sty
+Package: morefloats 2015/07/22 v1.0h Raise limit of unprocessed floats (HMM)
+Package morefloats Info: Maximum number of possible floats asked for: 36
+(morefloats)             (i.e. 18 more floats).
+(morefloats)             LaTeX might run out of memory before this
+(morefloats)             (in which case it will notify you).
+) (/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/roboto/roboto.sty
+Package: roboto 2022/09/10 (Bob Tennent) Supports Roboto fonts for all LaTeX engines.
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+
+Package fontspec Info: Font family 'RobotoCondensed(0)' created for font
+(fontspec)             'RobotoCondensed' with options [Ligatures = TeX,Scale =
+(fontspec)             1,Extension = .otf,Ligatures=TeX,Numbers =
+(fontspec)             {Proportional,Lining},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Regular.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Regular.otf]/OT:script=latn;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Italic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Italic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'Roboto(0)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,Lining},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'RobotoCondensed(1)' created for font
+(fontspec)             'RobotoCondensed' with options [Ligatures = TeX,Scale =
+(fontspec)             1,Extension = .otf,Numbers =
+(fontspec)             {Proportional,Lining},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Regular.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Regular.otf]/OT:script=latn;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Italic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Italic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'RobotoCondensed(2)' created for font
+(fontspec)             'RobotoCondensed' with options [Ligatures = TeX,Scale =
+(fontspec)             1,Extension = .otf,Numbers =
+(fontspec)             {Proportional,Lining},UprightFont = *-Bold,ItalicFont =
+(fontspec)             *-BoldItalic,BoldFont = *-Bold,BoldItalicFont =
+(fontspec)             *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'RobotoSlab(0)' created for font
+(fontspec)             'RobotoSlab' with options [Ligatures = TeX,Scale =
+(fontspec)             1,Extension = .otf,UprightFont = *-Regular,BoldFont =
+(fontspec)             *-Bold].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoSlab-Regular.otf]/OT:script=DFLT;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoSlab-Regular.otf]/OT:script=DFLT;language=dflt;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoSlab-Bold.otf]/OT:script=DFLT;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoSlab-Bold.otf]/OT:script=DFLT;language=dflt;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'RobotoCondensed(3)' created for font
+(fontspec)             'RobotoCondensed' with options [Ligatures = TeX,Scale =
+(fontspec)             1,Extension = .otf,Numbers =
+(fontspec)             {Proportional,Lining},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Regular.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Regular.otf]/OT:script=latn;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Italic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Italic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'RobotoCondensed(4)' created for font
+(fontspec)             'RobotoCondensed' with options [Ligatures = TeX,Scale =
+(fontspec)             1,Extension = .otf,Numbers =
+(fontspec)             {Proportional,Lining},UprightFont = *-Light,ItalicFont
+(fontspec)             = *-LightItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Light.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Light.otf]/OT:script=latn;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-LightItalic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-LightItalic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'RobotoCondensed(5)' created for font
+(fontspec)             'RobotoCondensed' with options [Ligatures = TeX,Scale =
+(fontspec)             1,Extension = .otf,Numbers =
+(fontspec)             {Proportional,Lining},UprightFont = *-Bold,ItalicFont =
+(fontspec)             *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn;language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'RobotoCondensed(6)' created for font
+(fontspec)             'RobotoCondensed' with options [Ligatures = TeX,Scale =
+(fontspec)             1,Extension = .otf,Numbers =
+(fontspec)             {Proportional,OldStyle},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Regular.otf]/OT:script=latn;language=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Regular.otf]/OT:script=latn;language=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;language=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;language=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Italic.otf]/OT:script=latn;language=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Italic.otf]/OT:script=latn;language=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn;language=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn;language=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'RobotoCondensed(7)' created for font
+(fontspec)             'RobotoCondensed' with options [Ligatures = TeX,Scale =
+(fontspec)             1,Extension = .otf,Numbers =
+(fontspec)             {Monospaced,Lining},UprightFont = *-Regular,ItalicFont
+(fontspec)             = *-Italic,BoldFont = *-Bold,BoldItalicFont =
+(fontspec)             *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Regular.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Regular.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Italic.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Italic.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn;language=dflt;+tnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'RobotoCondensed(8)' created for font
+(fontspec)             'RobotoCondensed' with options [Ligatures = TeX,Scale =
+(fontspec)             1,Extension = .otf,Numbers =
+(fontspec)             {Monospaced,OldStyle},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Regular.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Regular.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Italic.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Italic.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn;language=dflt;+tnum;+onum;+smcp;mapping=tex-text;"
+
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 128.
+\cslhangindent=\skip108
+LaTeX Font Info:    Font shape `TU/RobotoCondensed(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 314.
+(./Technical-supplement.aux)
+\openout1 = `Technical-supplement.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 314.
+LaTeX Font Info:    ... okay on input line 314.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 314.
+LaTeX Font Info:    ... okay on input line 314.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 314.
+LaTeX Font Info:    ... okay on input line 314.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 314.
+LaTeX Font Info:    ... okay on input line 314.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 314.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 314.
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 314.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 314.
+LaTeX Font Info:    ... okay on input line 314.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 314.
+LaTeX Font Info:    ... okay on input line 314.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 314.
+LaTeX Font Info:    ... okay on input line 314.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 314.
+LaTeX Font Info:    ... okay on input line 314.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 314.
+LaTeX Font Info:    ... okay on input line 314.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 314.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 314.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 314.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 314.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 314.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 314.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 314.
+LaTeX Font Info:    Redeclaring math accent \check on input line 314.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 314.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 314.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 314.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 314.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 314.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 314.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 314.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 314.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 314.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 314.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 314.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 314.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 314.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 314.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 314.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 314.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 314.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 314.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 314.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 314.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 314.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 314.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 314.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/RobotoCondensed(0)/m/n on input line 314.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 314.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 314.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 314.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/RobotoCondensed(0)/b/n on input line 314.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 314.
+Package hyperref Info: Link coloring ON on input line 314.
+(./Technical-supplement.out) (./Technical-supplement.out)
+\@outlinefile=\write4
+\openout4 = `Technical-supplement.out'.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside asymmetric 
+* h-part:(L,W,R)=(72.26999pt, 312.0pt, 230.02501pt)
+* v-part:(T,H,B)=(72.26999pt, 616.0pt, 106.7pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=312.0pt
+* \textheight=616.0pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-42.0pt
+* \headheight=14.0pt
+* \headsep=28.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=144.0pt
+* \marginparsep=24.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\langwohyphens=\language3
+LaTeX Font Info:    Font shape `TU/RobotoCondensed(0)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 316.
+LaTeX Font Info:    Font shape `TU/RobotoCondensed(0)/b/n' will be
+(Font)              scaled to size 14.4pt on input line 316.
+
+LaTeX Font Warning: Font shape `TU/RobotoCondensed(0)/l/n' undefined
+(Font)              using `TU/RobotoCondensed(0)/m/n' instead on input line 316.
+
+LaTeX Font Info:    Font shape `TU/RobotoCondensed(0)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 316.
+
+LaTeX Font Warning: Font shape `TU/RobotoCondensed(0)/l/n' undefined
+(Font)              using `TU/RobotoCondensed(0)/m/n' instead on input line 316.
+
+LaTeX Font Info:    Font shape `TU/RobotoCondensed(0)/b/n' will be
+(Font)              scaled to size 12.0pt on input line 322.
+LaTeX Font Info:    Font shape `TU/RobotoCondensed(0)/m/n' will be
+(Font)              scaled to size 10.95pt on input line 338.
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 348.
+[1
+
+]
+LaTeX Font Info:    Font shape `TU/RobotoCondensed(0)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 411.
+File: Technical-supplement_files/figure-latex/fig-margin-1.pdf Graphic file (type pdf)
+<use Technical-supplement_files/figure-latex/fig-margin-1.pdf>
+LaTeX Font Info:    Trying to load font information for U+msa on input line 412.
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 412.
+(/Users/oliviaburge/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+Package fontspec Info: Font family 'RobotoCondensed(9)' created for font
+(fontspec)             'RobotoCondensed' with options [Ligatures = TeX,Scale =
+(fontspec)             1,Extension = .otf,Ligatures=TeX,Numbers =
+(fontspec)             {Proportional,Lining},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic,LetterSpace=10].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Regular.otf]/OT:script=latn;language=dflt;letterspace=10;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Regular.otf]/OT:script=latn;language=dflt;letterspace=10;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;language=dflt;letterspace=10;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;language=dflt;letterspace=10;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Italic.otf]/OT:script=latn;language=dflt;letterspace=10;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Italic.otf]/OT:script=latn;language=dflt;letterspace=10;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn;language=dflt;letterspace=10;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn;language=dflt;letterspace=10;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+LaTeX Font Info:    Font shape `TU/RobotoCondensed(9)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 432.
+LaTeX Font Info:    Font shape `TU/RobotoCondensed(9)/m/sc' will be
+(Font)              scaled to size 10.0pt on input line 432.
+[2]
+Overfull \hbox (18.75pt too wide) in paragraph at lines 437--437
+[]\TU/lmtt/m/n/10 ## [1] "distDF"              "baseline_polygon"    "all_points"[] 
+ []
+
+
+Overfull \hbox (81.75pt too wide) in paragraph at lines 465--465
+[]\TU/lmtt/m/n/10 ##        YEAR DEPTH       SITE    period      NMDS1       NMDS2  centroid1[] 
+ []
+
+
+Overfull \hbox (81.75pt too wide) in paragraph at lines 465--465
+[]\TU/lmtt/m/n/10 ## 1  84.83404   560 Rotonuiaha Pre-Human -0.4353609 -0.12586729 -0.2746514[] 
+ []
+
+
+Overfull \hbox (81.75pt too wide) in paragraph at lines 465--465
+[]\TU/lmtt/m/n/10 ## 2 129.42979   550 Rotonuiaha Pre-Human -0.4996545 -0.02659776 -0.2746514[] 
+ []
+
+[3] [4] [5]
+Underfull \vbox (badness 10000) detected at line 637
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 637
+ []
+
+[6]
+File: Technical-supplement_files/figure-latex/unnamed-chunk-3-1.pdf Graphic file (type pdf)
+<use Technical-supplement_files/figure-latex/unnamed-chunk-3-1.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 640--641
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 692--692
+[]\TU/RobotoCondensed(0)/m/n/10 Table 1: Model comparison table for distance from baseline over time.
+ []
+
+
+Overfull \hbox (7.13335pt too wide) in paragraph at lines 696--697
+[]\TU/RobotoCondensed(0)/m/n/10 Intercept  
+ []
+
+
+Overfull \hbox (5.3461pt too wide) in paragraph at lines 698--699
+[]\TU/RobotoCondensed(0)/m/n/10 period  
+ []
+
+
+Overfull \hbox (4.49138pt too wide) in paragraph at lines 700--701
+[]\TU/RobotoCondensed(0)/m/n/10 YEAR  
+ []
+
+
+Overfull \hbox (14.96277pt too wide) in paragraph at lines 702--703
+[]\TU/RobotoCondensed(0)/m/n/10 period:YEAR  
+ []
+
+
+Overfull \hbox (4.19609pt too wide) in paragraph at lines 706--707
+[]\TU/RobotoCondensed(0)/m/n/10 logLik  
+ []
+
+
+Overfull \hbox (6.58609pt too wide) in paragraph at lines 712--713
+[]\TU/RobotoCondensed(0)/m/n/10 weight  
+ []
+
+
+Overfull \hbox (7.13335pt too wide) in paragraph at lines 719--720
+[]\TU/RobotoCondensed(0)/m/n/10 Intercept  
+ []
+
+
+Overfull \hbox (5.3461pt too wide) in paragraph at lines 721--722
+[]\TU/RobotoCondensed(0)/m/n/10 period  
+ []
+
+
+Overfull \hbox (4.49138pt too wide) in paragraph at lines 723--724
+[]\TU/RobotoCondensed(0)/m/n/10 YEAR  
+ []
+
+
+Overfull \hbox (14.96277pt too wide) in paragraph at lines 725--726
+[]\TU/RobotoCondensed(0)/m/n/10 period:YEAR  
+ []
+
+
+Overfull \hbox (4.19609pt too wide) in paragraph at lines 729--730
+[]\TU/RobotoCondensed(0)/m/n/10 logLik  
+ []
+
+
+Overfull \hbox (6.58609pt too wide) in paragraph at lines 735--736
+[]\TU/RobotoCondensed(0)/m/n/10 weight  
+ []
+
+
+Overfull \hbox (5.07138pt too wide) in paragraph at lines 741--741
+[]|\TU/RobotoCondensed(0)/m/n/10 0.001|  
+ []
+
+
+Overfull \hbox (6.18138pt too wide) in paragraph at lines 741--741
+[]|\TU/RobotoCondensed(0)/m/n/10 3.000|  
+ []
+
+
+Overfull \hbox (7.91609pt too wide) in paragraph at lines 741--741
+[]|\TU/RobotoCondensed(0)/m/n/10 25.969|  
+ []
+
+
+Overfull \hbox (5.02081pt too wide) in paragraph at lines 741--741
+\TU/RobotoCondensed(0)/m/n/10 44.894|  
+ []
+
+
+Overfull \hbox (3.58609pt too wide) in paragraph at lines 741--741
+[]|\TU/RobotoCondensed(0)/m/n/10 0.000|  
+ []
+
+
+Overfull \hbox (2.9861pt too wide) in paragraph at lines 742--743
+[]|\TU/RobotoCondensed(0)/m/n/10 0.548|  
+ []
+
+
+Overfull \hbox (6.18138pt too wide) in paragraph at lines 743--743
+[]|\TU/RobotoCondensed(0)/m/n/10 0.002|  
+ []
+
+
+Overfull \hbox (6.18138pt too wide) in paragraph at lines 743--743
+[]|\TU/RobotoCondensed(0)/m/n/10 5.000|  
+ []
+
+
+Overfull \hbox (8.0161pt too wide) in paragraph at lines 743--743
+[]|\TU/RobotoCondensed(0)/m/n/10 28.209|  
+ []
+
+
+Overfull \hbox (4.9208pt too wide) in paragraph at lines 743--743
+\TU/RobotoCondensed(0)/m/n/10 43.562|  
+ []
+
+
+Overfull \hbox (1.6761pt too wide) in paragraph at lines 743--743
+[]|\TU/RobotoCondensed(0)/m/n/10 1.333|  
+ []
+
+
+Overfull \hbox (1.8761pt too wide) in paragraph at lines 743--744
+[]|\TU/RobotoCondensed(0)/m/n/10 0.281|  
+ []
+
+
+Overfull \hbox (5.07138pt too wide) in paragraph at lines 744--744
+[]|\TU/RobotoCondensed(0)/m/n/10 0.001|  
+ []
+
+
+Overfull \hbox (6.18138pt too wide) in paragraph at lines 744--744
+[]|\TU/RobotoCondensed(0)/m/n/10 4.000|  
+ []
+
+
+Overfull \hbox (6.7061pt too wide) in paragraph at lines 744--744
+[]|\TU/RobotoCondensed(0)/m/n/10 26.194|  
+ []
+
+
+Overfull \hbox (4.77081pt too wide) in paragraph at lines 744--744
+\TU/RobotoCondensed(0)/m/n/10 42.570|  
+ []
+
+
+Overfull \hbox (2.7861pt too wide) in paragraph at lines 744--744
+[]|\TU/RobotoCondensed(0)/m/n/10 2.324|  
+ []
+
+
+Overfull \hbox (6.18138pt too wide) in paragraph at lines 746--746
+[]|\TU/RobotoCondensed(0)/m/n/10 3.000|  
+ []
+
+
+Overfull \hbox (5.5961pt too wide) in paragraph at lines 746--746
+[]|\TU/RobotoCondensed(0)/m/n/10 13.918|  
+ []
+
+
+Overfull \hbox (4.8708pt too wide) in paragraph at lines 746--746
+\TU/RobotoCondensed(0)/m/n/10 20.793|  
+ []
+
+
+Overfull \hbox (5.69609pt too wide) in paragraph at lines 746--746
+[]|\TU/RobotoCondensed(0)/m/n/10 24.101|  
+ []
+
+
+Overfull \hbox (3.58609pt too wide) in paragraph at lines 746--747
+[]|\TU/RobotoCondensed(0)/m/n/10 0.000|  
+ []
+
+
+Overfull \hbox (6.18138pt too wide) in paragraph at lines 747--747
+[]|\TU/RobotoCondensed(0)/m/n/10 2.000|  
+ []
+
+
+Overfull \hbox (3.08609pt too wide) in paragraph at lines 747--747
+\TU/RobotoCondensed(0)/m/n/10 0.293|  
+ []
+
+
+Overfull \hbox (8.1161pt too wide) in paragraph at lines 747--747
+[]|\TU/RobotoCondensed(0)/m/n/10 49.980|  
+ []
+
+
+Overfull \hbox (3.58609pt too wide) in paragraph at lines 747--748
+[]|\TU/RobotoCondensed(0)/m/n/10 0.000|  
+ []
+
+[8
+
+]
+File: Technical-supplement_files/figure-latex/lmModDiag-1.pdf Graphic file (type pdf)
+<use Technical-supplement_files/figure-latex/lmModDiag-1.pdf>
+
+LaTeX Warning: Marginpar on page 9 moved.
+
+File: Technical-supplement_files/figure-latex/firstacf-1.pdf Graphic file (type pdf)
+<use Technical-supplement_files/figure-latex/firstacf-1.pdf>
+
+LaTeX Warning: Marginpar on page 9 moved.
+
+LaTeX Font Info:    Font shape `TU/RobotoCondensed(0)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 793.
+
+Overfull \hbox (81.75pt too wide) in paragraph at lines 827--827
+[]\TU/lmtt/m/n/10 ##            Model df       AIC       BIC   logLik   Test  L.Ratio p-value[] 
+ []
+
+
+Overfull \hbox (81.75pt too wide) in paragraph at lines 827--827
+[]\TU/lmtt/m/n/10 ## simpleGLS2     2  5 -23.06715 -16.97277 16.53357 1 vs 2 2.707956  0.0998[] 
+ []
+
+[9]
+Overfull \hbox (81.75pt too wide) in paragraph at lines 839--839
+[]\TU/lmtt/m/n/10 ##            Model df       AIC       BIC   logLik   Test  L.Ratio p-value[] 
+ []
+
+
+Overfull \hbox (81.75pt too wide) in paragraph at lines 839--839
+[]\TU/lmtt/m/n/10 ## simpleGLS2     2  5 -23.06715 -16.97277 16.53357 1 vs 2 2.707956  0.0998[] 
+ []
+
+[10]
+File: Technical-supplement_files/figure-latex/predictinglm-1.pdf Graphic file (type pdf)
+<use Technical-supplement_files/figure-latex/predictinglm-1.pdf>
+
+Overfull \hbox (13.62993pt too wide) in paragraph at lines 941--945
+\TU/RobotoCondensed(0)/m/n/10 ers) and allow for 2 dimensions with the argument \TU/lmtt/m/n/10 lv.control = list(num.lv 
+ []
+
+[11]
+File: Technical-supplement_files/figure-latex/boralModPlot-1.pdf Graphic file (type pdf)
+<use Technical-supplement_files/figure-latex/boralModPlot-1.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 999--1000
+
+ []
+
+File: Technical-supplement_files/figure-latex/boralModPlot2-1.pdf Graphic file (type pdf)
+<use Technical-supplement_files/figure-latex/boralModPlot2-1.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1011--1012
+
+ []
+
+[12] [13]
+File: Technical-supplement_files/figure-latex/boralDistPlot-1.pdf Graphic file (type pdf)
+<use Technical-supplement_files/figure-latex/boralDistPlot-1.pdf>
+[14]
+Overfull \hbox (7.13335pt too wide) in paragraph at lines 1138--1139
+[]\TU/RobotoCondensed(0)/m/n/10 Intercept  
+ []
+
+
+Overfull \hbox (5.3461pt too wide) in paragraph at lines 1140--1141
+[]\TU/RobotoCondensed(0)/m/n/10 period  
+ []
+
+
+Overfull \hbox (4.49138pt too wide) in paragraph at lines 1142--1143
+[]\TU/RobotoCondensed(0)/m/n/10 YEAR  
+ []
+
+
+Overfull \hbox (14.96277pt too wide) in paragraph at lines 1144--1145
+[]\TU/RobotoCondensed(0)/m/n/10 period:YEAR  
+ []
+
+
+Overfull \hbox (1.4008pt too wide) in paragraph at lines 1148--1149
+[]\TU/RobotoCondensed(0)/m/n/10 logLik  
+ []
+
+
+Overfull \hbox (6.58609pt too wide) in paragraph at lines 1154--1155
+[]\TU/RobotoCondensed(0)/m/n/10 weight  
+ []
+
+
+Overfull \hbox (7.13335pt too wide) in paragraph at lines 1161--1162
+[]\TU/RobotoCondensed(0)/m/n/10 Intercept  
+ []
+
+
+Overfull \hbox (5.3461pt too wide) in paragraph at lines 1163--1164
+[]\TU/RobotoCondensed(0)/m/n/10 period  
+ []
+
+
+Overfull \hbox (4.49138pt too wide) in paragraph at lines 1165--1166
+[]\TU/RobotoCondensed(0)/m/n/10 YEAR  
+ []
+
+
+Overfull \hbox (14.96277pt too wide) in paragraph at lines 1167--1168
+[]\TU/RobotoCondensed(0)/m/n/10 period:YEAR  
+ []
+
+
+Overfull \hbox (1.4008pt too wide) in paragraph at lines 1171--1172
+[]\TU/RobotoCondensed(0)/m/n/10 logLik  
+ []
+
+
+Overfull \hbox (6.58609pt too wide) in paragraph at lines 1177--1178
+[]\TU/RobotoCondensed(0)/m/n/10 weight  
+ []
+
+
+Overfull \hbox (6.18138pt too wide) in paragraph at lines 1183--1183
+[]|\TU/RobotoCondensed(0)/m/n/10 0.006|  
+ []
+
+
+Overfull \hbox (6.18138pt too wide) in paragraph at lines 1183--1183
+[]|\TU/RobotoCondensed(0)/m/n/10 5.000|  
+ []
+
+
+Overfull \hbox (0.5661pt too wide) in paragraph at lines 1183--1183
+[]|\TU/RobotoCondensed(0)/m/n/10 1.315|  
+ []
+
+
+Overfull \hbox (3.58609pt too wide) in paragraph at lines 1183--1183
+[]|\TU/RobotoCondensed(0)/m/n/10 0.000|  
+ []
+
+
+Overfull \hbox (2.9861pt too wide) in paragraph at lines 1183--1184
+[]|\TU/RobotoCondensed(0)/m/n/10 0.662|  
+ []
+
+
+Overfull \hbox (6.18138pt too wide) in paragraph at lines 1184--1184
+[]|\TU/RobotoCondensed(0)/m/n/10 0.003|  
+ []
+
+
+Overfull \hbox (6.18138pt too wide) in paragraph at lines 1184--1184
+[]|\TU/RobotoCondensed(0)/m/n/10 3.000|  
+ []
+
+
+Overfull \hbox (1.5261pt too wide) in paragraph at lines 1184--1184
+[]|\TU/RobotoCondensed(0)/m/n/10 3.107|  
+ []
+
+
+Overfull \hbox (1.4261pt too wide) in paragraph at lines 1184--1184
+[]|\TU/RobotoCondensed(0)/m/n/10 1.792|  
+ []
+
+
+Overfull \hbox (2.83609pt too wide) in paragraph at lines 1184--1185
+[]|\TU/RobotoCondensed(0)/m/n/10 0.270|  
+ []
+
+
+Overfull \hbox (6.18138pt too wide) in paragraph at lines 1185--1185
+[]|\TU/RobotoCondensed(0)/m/n/10 0.003|  
+ []
+
+
+Overfull \hbox (6.18138pt too wide) in paragraph at lines 1185--1185
+[]|\TU/RobotoCondensed(0)/m/n/10 4.000|  
+ []
+
+
+Overfull \hbox (2.7861pt too wide) in paragraph at lines 1185--1185
+[]|\TU/RobotoCondensed(0)/m/n/10 5.868|  
+ []
+
+
+Overfull \hbox (2.7861pt too wide) in paragraph at lines 1185--1185
+[]|\TU/RobotoCondensed(0)/m/n/10 4.553|  
+ []
+
+
+Overfull \hbox (3.1861pt too wide) in paragraph at lines 1185--1186
+[]|\TU/RobotoCondensed(0)/m/n/10 0.068|  
+ []
+
+
+Overfull \hbox (6.18138pt too wide) in paragraph at lines 1186--1186
+[]|\TU/RobotoCondensed(0)/m/n/10 3.000|  
+ []
+
+
+Overfull \hbox (3.46082pt too wide) in paragraph at lines 1186--1186
+\TU/RobotoCondensed(0)/m/n/10 12.723|  
+ []
+
+
+Overfull \hbox (7.8161pt too wide) in paragraph at lines 1186--1186
+[]|\TU/RobotoCondensed(0)/m/n/10 32.489|  
+ []
+
+
+Overfull \hbox (5.1461pt too wide) in paragraph at lines 1186--1186
+[]|\TU/RobotoCondensed(0)/m/n/10 31.174|  
+ []
+
+
+Overfull \hbox (3.58609pt too wide) in paragraph at lines 1186--1187
+[]|\TU/RobotoCondensed(0)/m/n/10 0.000|  
+ []
+
+
+Overfull \hbox (6.18138pt too wide) in paragraph at lines 1187--1187
+[]|\TU/RobotoCondensed(0)/m/n/10 2.000|  
+ []
+
+
+Overfull \hbox (4.57082pt too wide) in paragraph at lines 1187--1187
+\TU/RobotoCondensed(0)/m/n/10 25.472|  
+ []
+
+
+Overfull \hbox (7.7161pt too wide) in paragraph at lines 1187--1187
+[]|\TU/RobotoCondensed(0)/m/n/10 55.444|  
+ []
+
+
+Overfull \hbox (6.6061pt too wide) in paragraph at lines 1187--1187
+[]|\TU/RobotoCondensed(0)/m/n/10 54.128|  
+ []
+
+
+Overfull \hbox (3.58609pt too wide) in paragraph at lines 1187--1188
+[]|\TU/RobotoCondensed(0)/m/n/10 0.000|  
+ []
+
+[15]
+File: Technical-supplement_files/figure-latex/unnamed-chunk-8-1.pdf Graphic file (type pdf)
+<use Technical-supplement_files/figure-latex/unnamed-chunk-8-1.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1230--1231
+
+ []
+
+[16] [17]
+File: Technical-supplement_files/figure-latex/distStartRaw-1.pdf Graphic file (type pdf)
+<use Technical-supplement_files/figure-latex/distStartRaw-1.pdf>
+File: Technical-supplement_files/figure-latex/distStartGAM-1.pdf Graphic file (type pdf)
+<use Technical-supplement_files/figure-latex/distStartGAM-1.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1337--1338
+
+ []
+
+
+Overfull \hbox (45.0pt too wide) in paragraph at lines 1349--1349
+[]\TU/lmtt/m/n/10 ## Basis dimension (k) checking results. Low p-value (k-index<1) may[] 
+ []
+
+
+Overfull \hbox (24.0pt too wide) in paragraph at lines 1349--1349
+[]\TU/lmtt/m/n/10 ## indicate that k is too low, especially if edf is close to k'.[] 
+ []
+
+[18]
+File: Technical-supplement_files/figure-latex/distStartMod-1.pdf Graphic file (type pdf)
+<use Technical-supplement_files/figure-latex/distStartMod-1.pdf>
+[19]
+File: Technical-supplement_files/figure-latex/calcDerivStart-1.pdf Graphic file (type pdf)
+<use Technical-supplement_files/figure-latex/calcDerivStart-1.pdf>
+[20]
+File: Technical-supplement_files/figure-latex/distStartRates-1.pdf Graphic file (type pdf)
+<use Technical-supplement_files/figure-latex/distStartRates-1.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1498--1499
+
+ []
+
+LaTeX Font Info:    Font shape `TU/RobotoCondensed(0)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 1507.
+LaTeX Font Info:    Font shape `TU/RobotoCondensed(0)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 1507.
+LaTeX Font Info:    Font shape `TU/RobotoCondensed(0)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 1507.
+
+LaTeX Warning: Marginpar on page 21 moved.
+
+[21]
+Overfull \hbox (71.25pt too wide) in paragraph at lines 1537--1537
+[]\TU/lmtt/m/n/10 ## Call: prcurve(X = decostand(rotonuiaha[!metaCols], "hellinger"), maxit[] 
+ []
+
+[22]
+File: Technical-supplement_files/figure-latex/prRawFitPlot-1.pdf Graphic file (type pdf)
+<use Technical-supplement_files/figure-latex/prRawFitPlot-1.pdf>
+File: Technical-supplement_files/figure-latex/gamprc-1.pdf Graphic file (type pdf)
+<use Technical-supplement_files/figure-latex/gamprc-1.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1589--1590
+
+ []
+
+
+Overfull \hbox (45.0pt too wide) in paragraph at lines 1603--1603
+[]\TU/lmtt/m/n/10 ## Basis dimension (k) checking results. Low p-value (k-index<1) may[] 
+ []
+
+
+Overfull \hbox (24.0pt too wide) in paragraph at lines 1603--1603
+[]\TU/lmtt/m/n/10 ## indicate that k is too low, especially if edf is close to k'.[] 
+ []
+
+[23]
+Overfull \hbox (29.25pt too wide) in paragraph at lines 1603--1603
+[]\TU/lmtt/m/n/10 ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1[] 
+ []
+
+File: Technical-supplement_files/figure-latex/unnamed-chunk-11-1.pdf Graphic file (type pdf)
+<use Technical-supplement_files/figure-latex/unnamed-chunk-11-1.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1645--1646
+
+ []
+
+[24]
+Underfull \vbox (badness 10000) detected at line 1700
+ []
+
+
+Overfull \vbox (0.66882pt too high) detected at line 1700
+ []
+
+[25]
+File: Technical-supplement_files/figure-latex/gamRates-1.pdf Graphic file (type pdf)
+<use Technical-supplement_files/figure-latex/gamRates-1.pdf>
+[26]
+Overfull \hbox (68.5166pt too wide) in paragraph at lines 1734--1740
+\TU/RobotoCondensed(0)/m/n/10 in palaeoecological records. \TU/RobotoCondensed(0)/m/it/10 The Holocene\TU/RobotoCondensed(0)/m/n/10 , \TU/RobotoCondensed(0)/m/it/10 33\TU/RobotoCondensed(0)/m/n/10 (8), 905–917. doi:[][]10.1177/09596836231169986[][]  
+ []
+
+
+Package bibentry Warning: You have used \nobibliography* 
+(bibentry)                without a following \bibliography.
+(bibentry)                You may not be able to run BibTeX.
+
+[27
+
+] (./Technical-supplement.aux)
+Package rerunfilecheck Info: File `Technical-supplement.out' has not changed.
+(rerunfilecheck)             Checksum: AD23EDBC19EEA6C61D56615DC2221F8B;1263.
+ ) 
+Here is how much of TeX's memory you used:
+ 17258 strings out of 477643
+ 345550 string characters out of 5839966
+ 741437 words of memory out of 5000000
+ 38033 multiletter control sequences out of 15000+600000
+ 475189 words of font info for 95 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 107i,12n,112p,508b,554s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on Technical-supplement.pdf (27 pages).

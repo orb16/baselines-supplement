@@ -1,6 +1,5 @@
 ---
 title: "Supplement 1: Analysing community change through time with palaeo data"
-subtitle: "Technical notes on applying palaeo data to conservation"
 author: "Olivia Rata Burge"
 date: "Manaaki Whenua - Landcare Research"
 institute: 
