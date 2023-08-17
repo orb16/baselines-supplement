@@ -1249,9 +1249,9 @@ This approach is particularly useful where the pre-disturbance period is
 unknown. For an example of published application, see Magurran,
 Dornelas, Moyes, Gotelli, \& McGill
 (\protect\hyperlink{ref-magurran_15_rapid}{2015}). Having decided on a
-distance metric (e.g., Bray-Curtis, Jaccard), and having ordered the
-dataset by depth (important, for the function requires it), we can
-calculate the distance from start point.
+distance metric (e.g., Bray-Curtis, Jaccard), and having ensured that
+the sample you wish to compare to is in the first row of your dataset,
+we can calculate the distance from start point.
 
 You can also calculate this yourself. It is easiest to do so by
 converting the \texttt{distance} object created by \texttt{vegdist} (or
@@ -1264,8 +1264,11 @@ not species data, but rather metadata. We include the metadata using the
 \texttt{imps} dataframe we created earlier. The \texttt{idCol} (which
 will be typically either a year or depth column) is given by
 \texttt{YEAR} in our case and we have selected the Jaccard distance with
-which to calculate ecological distance. The \texttt{idColType} is set to
-`year' appropriately too (change this if you are using depth).
+which to calculate ecological distance. We highlight that in our
+dataset, it is already ordered deep-to-shallow, and therefore the year
+84 AD (the first sample of the dataset) is in the first row. The
+function also reports the value of the column that is used as the
+reference level - please ensure you are happy with this.
 
 \begin{Shaded}
 \begin{Highlighting}[]
@@ -1275,10 +1278,13 @@ which to calculate ecological distance. The \texttt{idColType} is set to
     \StringTok{"total"}\NormalTok{), }\StringTok{"log"}\NormalTok{), }
   \AttributeTok{metaData =}\NormalTok{ imps,}
   \AttributeTok{idCol =} \StringTok{"YEAR"}\NormalTok{,}
-  \AttributeTok{distMethod =} \StringTok{"jaccard"}\NormalTok{,}
-  \AttributeTok{idColType =} \StringTok{"YEAR"}\NormalTok{)}
+  \AttributeTok{distMethod =} \StringTok{"jaccard"}\NormalTok{)}
 \end{Highlighting}
 \end{Shaded}
+
+\begin{verbatim}
+## [1] "Start/reference level value is 84.8340425531915 from column 'YEAR'"
+\end{verbatim}
 
 \texttt{pkStart} is the object returned by
 \texttt{calculateDistanceStart} and has all the columns of the metadata
